@@ -6,5 +6,8 @@ y = 6;
 # comment2
 z = x + y;
 #adding a comment for example
+if(x!=y)
+print "not equal"
+else print "equal"
 </code>
 </pre>
